@@ -62,3 +62,5 @@ t.test(VitC~Cult,data=veggy)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+From the box plot we can see now better c39 and c52. It also shows that how much VitC it contains. The numerical discription also shows us what we are looking at as well so we can get a better understanding of how much VitC from c39 and c52 you could get, what most get, how little you could get.
